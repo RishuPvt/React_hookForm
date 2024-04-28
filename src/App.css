@@ -1,0 +1,36 @@
+body {
+  justify-content: center;
+  display: flex;
+  margin-top: 110px;
+}
+.form {
+  display: flex;
+  width: 425px;
+  height: 250px;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid;
+  background-color: powderblue;
+}
+.pass {
+  display: flex;
+  margin-top: 20px;
+}
+
+.btn {
+  display: flex;
+  margin-top: 10px;
+  color: black;
+  width: 169px;
+  justify-content: center;
+}
+h1 {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: cursive;
+  background: beige;
+  color: brown;
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+}
